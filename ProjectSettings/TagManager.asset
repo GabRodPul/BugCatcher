@@ -3,14 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Cho Juaa
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
+  - Player
+  - Net
+  - Bug
+  - Lurk Zone
+  - Chojuaa
   - 
   - 
   - 
@@ -30,13 +36,8 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Skybox
+  - Spatial Awareness
   m_SortingLayers:
   - name: Default
     uniqueID: 0
