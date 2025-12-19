@@ -1,5 +1,5 @@
 # BugCatcher (aka projectGroup5)
-Sorround yourself with autochthonous fauna and flora from the Canary Islands and catch the bugs coming for you! But... careful! Not all bugs behave the same! Make cunning use of your net and catch all waves as soon as possible!
+Sorround yourself with autochthonous fauna and flora from the Canary Islands and catch the bugs coming for you! But... careful! Not all bugs behave the same! Make cunning use of your net and catch all waves as fast as you can!
 <br/>
 Part of the final VR projects from the [first batch of students in IES El Rincón's Videogame & VR Development specialization course](https://sites.google.com/ieselrincon.es/dvrv-proyectos-2324/bug-catcher-3dvr?authuser=0).
 
